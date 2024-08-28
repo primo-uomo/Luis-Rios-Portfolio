@@ -1,13 +1,17 @@
-# Portfolio Title
+# My Personal Portfolio
+This is my personal portfolio.
 
-## Section 1
+## About Me
+I am a student who is interested in learning about GitHub, Coding and other technical topics.
 
-### Subsection
+## Skills
 
-### Subsection
+### Technical
+* C# (Very Basic)
+* C++ (Very Basic)
+* HTML (Very Basic)
+* CSS (Very Basic)
 
-## Section 2
-
-### Subsection
-
-### Subsection
+### Other
+* Hotel's Management and Tourism proffesional
+* Bilingual (Spanish and English)
